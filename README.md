@@ -1,2 +1,2 @@
 # AI-in-drug-discovery
-Some minor scripts and exercises for a course held at Uppsala University
+Some minor scripts and exercises created for a preliminary course held at Uppsala University
